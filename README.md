@@ -1,1 +1,1 @@
-# DriveCoin_Rider
+# ServeCoin Rider Software
